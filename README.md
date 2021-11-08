@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MVaden0
-- 👀 I’m interested in copmuter vision, application development, and machine learning.
+- 👀 I’m interested in computer vision, application development, and machine learning.
 - 🌱 I’m currently learning about developing machine learning pipelines. 
 - 💞️ I’m looking to collaborate on any cv/ml project.
 - 📫 How to reach me:
