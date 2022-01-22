@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MVaden0
 - 👀 I’m interested in computer vision, application development, and machine learning.
-- 🌱 I’m currently learning about developing machine learning pipelines. 
-- 💞️ I’m looking to collaborate on any cv/ml project.
+- 🌱 I’m currently doing web dev and some smart contract dev. 
+- 💞️ I’m looking to collaborate on any cv/ml, web development, or smart contract development project.
 - 📫 How to reach me:
 Email: michaelvaden03@gmail.com
 
