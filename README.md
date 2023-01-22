@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing web dev and some smart contract dev. 
 - 💞️ I’m looking to collaborate on any cv/ml, web development, or smart contract development project.
 - 📫 How to reach me:
-Email: michaelvaden03@gmail.com
+Email: michaeljosephvaden03@gmail.com
 
 <!---
 MVaden0/MVaden0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
