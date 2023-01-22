@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MVaden0
+- 👋 Hi, I’m @SwampPear
 - 👀 I’m interested in computer vision, application development, and machine learning.
 - 🌱 I’m currently doing web dev and some smart contract dev. 
 - 💞️ I’m looking to collaborate on any cv/ml, web development, or smart contract development project.
